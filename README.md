@@ -9,7 +9,8 @@
 
 2. Estructura de la URL
     2.1 Subdominio
-
+    2.2 Dominio
+    2.3 Extensión del dominio
 ```
 
 ## 1. Sobre URL
