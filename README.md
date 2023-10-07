@@ -41,4 +41,4 @@ El dominio pertenece al nombre de la web, podríamos localizarlo con el ejemplo 
 
 Todos los enlaces acaban con un .es, .org, .cat, etc... Depende de la web. En nuestro caso sería: https://www.wikipedia```.org``` .
 
-![Extensión]( "Extensión")
+![Extensión](https://github.com/loltop776/SMX2-M8UF1A1-HistoriaWeb-1989-1994-TheURL-JesusFortea/blob/main/FOTOS/Extensi%C3%B3n.jpg "Extensión")
