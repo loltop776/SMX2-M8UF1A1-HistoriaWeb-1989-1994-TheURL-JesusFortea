@@ -33,12 +33,12 @@ En la estructuea de una URL existen varias partes, por principal el protocolo y 
 
 ### 2.2 Dominio
 
-El dominio pertenece al nombre de la web, podríamos localizarlo con el ejemplo anterior: www.```wikipedia```.org .
+El dominio pertenece al nombre de la web, podríamos localizarlo con el ejemplo anterior: ```wikipedia``` .
 
 ![Dominio](https://github.com/loltop776/SMX2-M8UF1A1-HistoriaWeb-1989-1994-TheURL-JesusFortea/blob/main/FOTOS/Dominio.jpg "Dominio")
 
 ### 2.3 Extensión del dominio
 
-Todos los enlaces acaban con un .es, .org, .cat, etc... Depende de la web. En nuestro caso sería: www.wikipedia```.org``` .
+Todos los enlaces acaban con un .es, .org, .cat, etc... Depende de la web. En nuestro caso sería: ```.org``` .
 
 ![Extensión](https://github.com/loltop776/SMX2-M8UF1A1-HistoriaWeb-1989-1994-TheURL-JesusFortea/blob/main/FOTOS/Extensi%C3%B3n.jpg "Extensión")
